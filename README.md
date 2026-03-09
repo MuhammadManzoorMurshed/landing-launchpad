@@ -15,4 +15,4 @@ Repository structure
 - `css/webflow.css` — styles
 - `assets/` — images and icons
 
-***[Live Demo](https://muhammadmanzoormurshed.github.io/landing-launchpad/)**
+**[Live Demo](https://muhammadmanzoormurshed.github.io/landing-launchpad/)**
